@@ -1,0 +1,16 @@
+{
+	"name": "@seregpie/koa-state",
+	"version": "1.0.0",
+	"description": "A simple state middleware.",
+	"keywords": [
+		"koa",
+		"state"
+	],
+	"license": "MIT",
+	"author": "Sergej Sintschilin <seregpie@gmail.com>",
+	"main": "index.js",
+	"repository": "https://github.com/SeregPie/KoaState.git",
+	"peerDependencies": {
+		"koa": "^2.7.0"
+	}
+}
